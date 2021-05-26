@@ -17,9 +17,9 @@
 
 **1. dataset 형식을 이해하고 각각의 dataset 변경을 자유롭게**
 
-**2. tensorflow, pytorch, detectron2 등 딥러닝 프레임워크의 사용을 자유롭게**
+**2. tensorflow, pytorch(detectron2) 등 딥러닝 프레임워크의 전환을 자유롭게**
 
-**3. 생성된 모델의 deploy 를 자유롭게 web, mobile, embeded 등**
+**3. 생성된 모델을 web, mobile, embeded 로 deploy를 자유롭게**
 
 
 ## ML > Vision > Object Detection
@@ -36,7 +36,7 @@
 ![](./images/Global-Internet-Growth-and-Trends-by-2022.jpg)
 
 
-#### 클라우드(AWS, MS Azure, GCP)를 보면 실제 적용되는 각 분야의 모델을 알 수 있다
+#### 클라우드([AWS](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/aws-overview/machine-learning.html), [MS Azure](https://azure.microsoft.com/ko-kr/services/machine-learning/), [GCP](https://cloud.google.com/products/ai))를 보면 실제 적용되는 각 분야의 모델을 알 수 있다
 
 #### Object Detection
 Object Detection(객체 검출) = classification(분류) + localization(지역화)
@@ -53,17 +53,12 @@ Object Detection(객체 검출) = classification(분류) + localization(지역�
 
 [참고 블로그](https://chacha95.github.io/2020-02-10-Object-Detection1/)
 
+[텐서플로우 Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+
 
 ## DATASET
 #### DATA 의 중요성 - **머신러닝의 7~80 퍼센트는 데이터다**
-#### 머신러닝에 대한 환상 
-자동으로 분석해주고 자동으로 결과가 나오는 줄 아는 클라이언트가 많다 
-> 
-A사는 전세계적으로 전자제품을 파는데 공급망 관리를 위해 머신러닝을 5년 이상 준비해서 평가하는 수식까지 만들어도 현실적으로 적용에 신중함.
->
-B사는 재고관리를 위한 데이터의 정확도도 충분하지 않으면서 재고에 대한 손해액도 대충 재고가 쌓여있는 액수로 산정. 데이터의 생명주기 파악도 안된 상태.
-
- 
 ![](./images/dataset_for_object_recognition.jpg)
 
 참고자료
@@ -90,7 +85,33 @@ B사는 재고관리를 위한 데이터의 정확도도 충분하지 않으면�
 
 
 
+## 딥러닝 프레임워크
+[파이토치가 텐서플로우를 이겼다(2020.10)](http://www.aitimes.com/news/articleView.html?idxno=132756)
+
+1. [파이토치 - 페이스북](https://tutorials.pytorch.kr/)
+
+2. [텐서플로우 - 구글](https://www.tensorflow.org/?hl=ko)
+
+
+
+## 모델 선정
+1. [Detectron2 Model Zoo (PyTorch)](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md)
+
+2. [텐서플로우 Object Detection API Model Zoo (Tensorflow)](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+
+
+
+## 학습, 평가, 결과 테스트 
+1. Detectron2 Colab 실습
 
 
 
 
+
+## 추천 강의 및 블로그
+1. Stanford 대학의 ML Vision 유투브 강의
+
+	[유투브 강의](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)	
+	[한글자막](https://github.com/visionNoob/CS231N_17_KOR_SUB)
+
+2. [텐서 플로우 블로그](https://tensorflow.blog/)
