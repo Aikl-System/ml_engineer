@@ -122,4 +122,4 @@ Object Detection(객체 검출) = classification(분류) + localization(지역�
 
 
 ## 앞으로.......
-![혼자 공부하는 머신러닝과 딥러닝 로드맵](images/혼자 공부하는 머신러닝과 딥러닝 로드맵.jpg)
+![](images/alone_roadmap.jpg)
