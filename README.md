@@ -113,7 +113,8 @@ Object Detection(객체 검출) = classification(분류) + localization(지역�
 ## 추천 강의 및 블로그
 1. Stanford 대학의 ML Vision 유투브 강의
 
-	[유투브 강의](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)	
+	[유투브 강의](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+		
 	[한글자막](https://github.com/visionNoob/CS231N_17_KOR_SUB)
 
 2. [텐서 플로우 블로그](https://tensorflow.blog/)
