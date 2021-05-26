@@ -36,7 +36,7 @@
 ![](./images/Global-Internet-Growth-and-Trends-by-2022.jpg)
 
 
-#### 클라우드([AWS](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/aws-overview/machine-learning.html), [MS Azure](https://azure.microsoft.com/ko-kr/services/machine-learning/), [GCP](https://cloud.google.com/products/ai))를 보면 실제 적용되는 각 분야의 모델을 알 수 있다
+#### 클라우드([AWS](https://docs.aws.amazon.com/ko_kr/whitepapers/latest/aws-overview/machine-learning.html), [MS Azure](https://azure.microsoft.com/ko-kr/services/machine-learning/), [GCP](https://cloud.google.com/products/ai))를 보면 실제 적용되는 각 분야의 트렌드를 알 수 있다
 
 #### Object Detection
 Object Detection(객체 검출) = classification(분류) + localization(지역화)
@@ -118,3 +118,8 @@ Object Detection(객체 검출) = classification(분류) + localization(지역�
 	[한글자막](https://github.com/visionNoob/CS231N_17_KOR_SUB)
 
 2. [텐서 플로우 블로그](https://tensorflow.blog/)
+
+
+
+## 앞으로.......
+![혼자 공부하는 머신러닝과 딥러닝 로드맵](images/혼자 공부하는 머신러닝과 딥러닝 로드맵.jpg)
