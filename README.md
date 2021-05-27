@@ -61,6 +61,7 @@ Object Detection(객체 검출) = classification(분류) + localization(지역�
 #### DATA 의 중요성 - **머신러닝의 7~80 퍼센트는 데이터다**
 ![](./images/dataset_for_object_recognition.jpg)
 
+
 참고자료
 
 1. [Object Detection Dataset](https://seol8118.github.io/object%20detection/od-intro2/#)
@@ -78,7 +79,7 @@ Object Detection(객체 검출) = classification(분류) + localization(지역�
 
 [MS COCO dataset](https://cocodataset.org/#home)
 
-[Open Images Dataset](https://cocodataset.org/#home)
+[Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html)
 
 
 ##### 대부분은 머신러닝 플랫폼에서 바로 사용할 수 있도록 서비스하고 있으며 새로운 데이터세트는 현재 [Kaggle](https://www.kaggle.com/) 에서 제공되고 있다.
